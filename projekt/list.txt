@@ -1,0 +1,4 @@
+Zadanie1 0 6
+Zadanie2 3 4
+Zadanie3 2 2
+Zadanie4 0 3
